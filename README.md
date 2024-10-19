@@ -1,5 +1,5 @@
 ### Hi I am Chaimae 👋
-- 🔭 I’m a second-year master's student in Data Science.
+- 🔭 I’m a Data Scientist.
 - 🌱 I’m currently learning the ins and outs of data warehousing, exploring generative AI, and diving into LLM techniques (Large Language Models).
 - 👯 I’m looking to collaborate on projects involving data-driven decision-making, LLM methodologies, and generative AI.
 - 💬 Ask me about machine learning algorithms, CNN, LSTM, Object detection, ethical AI, data preprocessing, and cleaning.
