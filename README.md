@@ -1,5 +1,5 @@
 ### Hi I am Chaimae 👋
-- 🔭 I’m a Data Scientist/ AI engineer.
+- 🔭 I’m a Data Scientist/ AI Engineer.
 - 🌱 I’m currently learning the ins and outs of AI agents, exploring generative AI, and diving into LLM techniques (Large Language Models).
 - 👯 I’m looking to collaborate on projects involving LLM methodologies, generative AI and data-driven decision-making.
 - 📫 How to reach me: Feel free to drop me an email at
